@@ -917,7 +917,7 @@ const SITE_DATA = {
     {
       "id": "000143",
       "nombre": "Juego de Cocina para Pequeños",
-      "precio": 3000,
+      "precio": 7000,
       "imagen": "img/143.jpeg",
       "categoria": "Set de Cocina, Médico y de Uñas",
       "descripcion": "Juego de Cocina para Pequeños",

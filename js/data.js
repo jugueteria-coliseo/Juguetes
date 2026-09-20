@@ -908,7 +908,7 @@ const SITE_DATA = {
     {
       "id": "000142",
       "nombre": "Juego de Cocina Elegante",
-      "precio": 7000,
+      "precio": 7000, 
       "imagen": "img/142.jpeg",
       "categoria": "Set de Cocina, Médico y de Uñas",
       "descripcion": "Juego de Cocina",

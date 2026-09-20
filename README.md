@@ -1,4 +1,4 @@
-# Juguetería Coliseo — GitHub Pages
+# Juguetería Coliseo
 
 Plantilla estática para catálogo de juguetes. 
 

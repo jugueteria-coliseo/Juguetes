@@ -1,6 +1,6 @@
 # Juguetería Coliseo — GitHub Pages
 
-Plantilla estática para catálogo de juguetes. **No usa PHP, MySQL ni base de datos.**
+Plantilla estática para catálogo de juguetes. 
 
 ## Lo que puedes editar desde `admin.html`
 

@@ -162,7 +162,7 @@ const SITE_DATA = {
       "id": "00042",
       "nombre": "Carro Lamborghini con Luces",
       "precio": 7500,
-      "imagen": "img/42.jpeg",
+      "imagen": "img/45.jpeg",
       "categoria": "Carros de Control Remoto",
       "descripcion": "Carro Lamborghini con Luces (32cm)",
       "activo": true

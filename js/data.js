@@ -43,7 +43,7 @@ const SITE_DATA = {
     },
     {
       "id": "00012",
-      "nombre": "Marugas para Bebés",
+      "nombre": "Sonares para Bebés",
       "precio": 2500,
       "imagen": "img/12.jpeg",
       "categoria": "Artículos para Bebés",

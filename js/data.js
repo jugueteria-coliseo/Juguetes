@@ -34,7 +34,7 @@ const SITE_DATA = {
   "productos": [
     {
       "id": "00011",
-      "nombre": "Set de Regalos para Bebés",
+      "nombre": "Set de Regalo para Bebés",
       "precio": 3500,
       "imagen": "img/11.jpeg",
       "categoria": "Artículos para Bebés",
@@ -57,33 +57,33 @@ const SITE_DATA = {
       "imagen": "img/13.jpeg",
       "categoria": "Artículos para Bebés",
       "descripcion": "El regalo Perfecto para hacer reir a tu pequeña",
-      "activo": true
+      "activo": false
     },
     {
       "id": "00014",
-      "nombre": "Combo Maquillaje para Bebés",
+      "nombre": "Cepillo para bebé",
       "precio": 2500,
       "imagen": "img/14.jpeg",
       "categoria": "Artículos para Bebés",
-      "descripcion": "Combo maquillaje para bebé",
+      "descripcion": "",
       "activo": true
     },
     {
       "id": "00015",
-      "nombre": "Muñes de Gomas que Pitan",
+      "nombre": "Muñecos de Goma que Pitan",
       "precio": 1500,
       "imagen": "img/15.jpeg",
       "categoria": "Artículos para Bebés",
-      "descripcion": "Muñes de Bomas que pitan con amor",
+      "descripcion": "",
       "activo": true
     },
     {
       "id": "00016",
-      "nombre": "Jaboneras de Viajes",
+      "nombre": "Jaboneras para bebé",
       "precio": 1000,
       "imagen": "img/16.jpeg",
       "categoria": "Artículos para Bebés",
-      "descripcion": "Jaboneras de Viajes para Bebés con un diseño Antiderrames, Colores Vibrantes, Compactar y Ligeras",
+      "descripcion": "",
       "activo": true
     },
     {
@@ -133,11 +133,11 @@ const SITE_DATA = {
     },
     {
       "id": "00024",
-      "nombre": "Muñeca para Bebé",
+      "nombre": "Bebé en caja",
       "precio": 7000,
       "imagen": "img/24.jpeg",
       "categoria": "Bebés",
-      "descripcion": "Muñecas para Bebés Hembras",
+      "descripcion": "Bebé que Llora, dice mamá y papá y hace pipi",
       "activo": true
     },
     {
@@ -151,7 +151,7 @@ const SITE_DATA = {
     },
     {
       "id": "00041",
-      "nombre": "Carro de Control Remoto",
+      "nombre": "Carro de Control Remoto Pilas de litium",
       "precio": 15000,
       "imagen": "img/41.jpeg",
       "categoria": "Carros de Control Remoto",
@@ -196,7 +196,7 @@ const SITE_DATA = {
     },
     {
       "id": "00052",
-      "nombre": "Cargador Frontal (o pala cargadora)",
+      "nombre": "Carro de volqueta amarillo",
       "precio": 2500,
       "imagen": "img/52.jpeg",
       "categoria": "Carros, Rastras y Camiones",
@@ -205,16 +205,16 @@ const SITE_DATA = {
     },
     {
       "id": "00053",
-      "nombre": "Camión Montruo de Construcción (3 Modelos)",
+      "nombre": "Carritos de Construcción (3 Modelos)",
       "precio": 1500,
       "imagen": "img/53.jpeg",
       "categoria": "Carros, Rastras y Camiones",
-      "descripcion": "Tu propio camión montruo de construcción",
+      "descripcion": "Verde, amarillo y naranja",
       "activo": true
     },
     {
       "id": "00054",
-      "nombre": "Jeep Todoterreno",
+      "nombre": "Carros dobles todoterreno",
       "precio": 6000,
       "imagen": "img/54.jpeg",
       "categoria": "Carros, Rastras y Camiones",
@@ -241,11 +241,11 @@ const SITE_DATA = {
     },
     {
       "id": "00057",
-      "nombre": "Lanchas Rápidas",
+      "nombre": "Bote",
       "precio": 6000,
       "imagen": "img/57.jpeg",
       "categoria": "Carros, Rastras y Camiones",
-      "descripcion": "Receing Speed Boat",
+      "descripcion": "Lancha q camina en el agua",
       "activo": true
     },
     {
@@ -277,29 +277,20 @@ const SITE_DATA = {
     },
     {
       "id": "000511",
-      "nombre": "Carro de Carreras",
+      "nombre": "Carro Spiderman",
       "precio": 5500,
       "imagen": "img/511.jpeg",
       "categoria": "Carros, Rastras y Camiones",
-      "descripcion": "Carro de Carreras(Alumbra, Camina y Suena)",
+      "descripcion": "(Alumbra, Camina y Suena)",
       "activo": true
     },
     {
       "id": "000512",
-      "nombre": "Pala Cargadora",
+      "nombre": "Carro Constructor que camina",
       "precio": 5500,
       "imagen": "img/512.jpeg",
       "categoria": "Carros, Rastras y Camiones",
-      "descripcion": "Pala Cargadora (Alumbra, Camina y Suena)",
-      "activo": true
-    },
-    {
-      "id": "000513",
-      "nombre": "Rastras Montacargas",
-      "precio": 5000,
-      "imagen": "img/513.jpeg",
-      "categoria": "Carros, Rastras y Camiones",
-      "descripcion": "Rastras Montacargas",
+      "descripcion": "(Alumbra, Camina y Suena)",
       "activo": true
     },
     {
@@ -322,7 +313,7 @@ const SITE_DATA = {
     },
     {
       "id": "00061",
-      "nombre": "Castillo",
+      "nombre": "Castillo de Rapunzel",
       "precio": 6500,
       "imagen": "img/61.jpeg",
       "categoria": "Castillos",
@@ -358,7 +349,7 @@ const SITE_DATA = {
     },
     {
       "id": "00073",
-      "nombre": "Montar Bloques",
+      "nombre": "Mochila con bloques",
       "precio": 4000,
       "imagen": "img/73.jpeg",
       "categoria": "Juguetes Didácticos",
@@ -376,7 +367,7 @@ const SITE_DATA = {
     },
     {
       "id": "00075",
-      "nombre": "Juegos de Agua",
+      "nombre": "Atari de Agua",
       "precio": 1500,
       "imagen": "img/75.jpeg",
       "categoria": "Juguetes Didácticos",
@@ -385,7 +376,7 @@ const SITE_DATA = {
     },
     {
       "id": "00076",
-      "nombre": "Construye para la Velocidad y la Potencia",
+      "nombre": "Set de aviones y carritos",
       "precio": 4000,
       "imagen": "img/76.jpeg",
       "categoria": "Juguetes Didácticos",
@@ -399,15 +390,6 @@ const SITE_DATA = {
       "imagen": "img/77.jpeg",
       "categoria": "Juguetes Didácticos",
       "descripcion": "Puzzle 3D Construcción de Casas",
-      "activo": true
-    },
-    {
-      "id": "00078",
-      "nombre": "Libro 3D Incluye Stickers y Gafas 3D",
-      "precio": 1500,
-      "imagen": "img/78.jpeg",
-      "categoria": "Juguetes Didácticos",
-      "descripcion": "Diversión tridimencional para toda la familia",
       "activo": true
     },
     {
@@ -448,7 +430,7 @@ const SITE_DATA = {
     },
     {
       "id": "000713",
-      "nombre": "Burbuja Mágica",
+      "nombre": "Pistola de burbujas unicornio",
       "precio": 2500,
       "imagen": "img/713.jpeg",
       "categoria": "Juguetes Didácticos",
@@ -466,7 +448,7 @@ const SITE_DATA = {
     },
     {
       "id": "000715",
-      "nombre": "Pizarrón Mágico Multicolor",
+      "nombre": "Pizarra Led",
       "precio": 1500,
       "imagen": "img/715.jpeg",
       "categoria": "Juguetes Didácticos",
@@ -502,11 +484,11 @@ const SITE_DATA = {
     },
     {
       "id": "00082",
-      "nombre": "Micrófono con Bocinas (MP3)",
+      "nombre": "Micrófono grande",
       "precio": 12000,
       "imagen": "img/82.jpeg",
       "categoria": "Juguetes Musicales",
-      "descripcion": "Micrófono con Bocinas (MP3)",
+      "descripcion": "Reproduce la música de un celular y además lo que la niña quiera",
       "activo": true
     },
     {
@@ -516,7 +498,7 @@ const SITE_DATA = {
       "imagen": "img/83.jpeg",
       "categoria": "Juguetes Musicales",
       "descripcion": "Guitarra",
-      "activo": true
+      "activo": false
     },
     {
       "id": "00084",
@@ -529,29 +511,29 @@ const SITE_DATA = {
     },
     {
       "id": "00085",
-      "nombre": "Captus Bailarín",
+      "nombre": "Cactus Bailarín",
       "precio": 6000,
       "imagen": "img/85.jpeg",
       "categoria": "Juguetes Musicales",
-      "descripcion": "Captus Bailarin (Canta, Baila, Repite Sonidos, Recargable y tiene hasta 120 canciones)",
+      "descripcion": "(Canta, Baila, Repite Sonidos, es Recargable y trae su cargador)",
       "activo": true
     },
     {
       "id": "00086",
-      "nombre": "Caballito Andante",
+      "nombre": "Unicornio que camina",
       "precio": 5500,
       "imagen": "img/86.jpeg",
       "categoria": "Juguetes Musicales",
-      "descripcion": "Caballito Andante, Alumbra, Suena y Camina",
+      "descripcion": "Alumbra, Suena y Camina",
       "activo": true
     },
     {
       "id": "00087",
-      "nombre": "Dinosaurio Andante",
+      "nombre": "Dinosaurio que da vueltas",
       "precio": 7000,
       "imagen": "img/87.jpeg",
       "categoria": "Juguetes Musicales",
-      "descripcion": "Dinosaurio Andante, Alumbra, Suena y Camina",
+      "descripcion": "Alumbra, Suena y Camina",
       "activo": true
     },
     {
@@ -565,7 +547,7 @@ const SITE_DATA = {
     },
     {
       "id": "00089",
-      "nombre": "Robot Andante",
+      "nombre": "Robot",
       "precio": 7000,
       "imagen": "img/89.jpeg",
       "categoria": "Juguetes Musicales",
@@ -628,43 +610,43 @@ const SITE_DATA = {
     },
     {
       "id": "000103",
-      "nombre": "Princesitas Pequeñas",
+      "nombre": "Muñeca lol mediana",
       "precio": 6000,
       "imagen": "img/103.jpeg",
       "categoria": "Muñecas",
-      "descripcion": "Princesitas Pequeñas",
+      "descripcion": "Alumbran y cantan",
       "activo": true
     },
     {
       "id": "000104",
-      "nombre": "Muñecas de Moda Alta Calidad",
+      "nombre": "Muñecas lol más grande",
       "precio": 7500,
       "imagen": "img/104.jpeg",
       "categoria": "Muñecas",
-      "descripcion": "Muñecas de Moda Alta Calidad La Coleccion Mágica",
+      "descripcion": "Canta y alumbra",
       "activo": true
     },
     {
       "id": "000105",
-      "nombre": "Doctoras",
+      "nombre": "Doctora juguetes",
       "precio": 6000,
       "imagen": "img/105.jpeg",
       "categoria": "Muñecas",
-      "descripcion": "Doctoras",
+      "descripcion": "",
       "activo": true
     },
     {
       "id": "000106",
-      "nombre": "Muñecas Grandes 30cm",
+      "nombre": "Muñeca Ana de frozen",
       "precio": 5000,
       "imagen": "img/106.jpeg",
       "categoria": "Muñecas",
-      "descripcion": "Muñecas Grandes 30cm que Cantan",
+      "descripcion": "Canta",
       "activo": true
     },
     {
       "id": "000107",
-      "nombre": "Princesa Articulada",
+      "nombre": "Barbie novia",
       "precio": 5000,
       "imagen": "img/107.jpeg",
       "categoria": "Muñecas",
@@ -673,11 +655,11 @@ const SITE_DATA = {
     },
     {
       "id": "000108",
-      "nombre": "Pareja de Novios",
+      "nombre": "Barbie con familia",
       "precio": 7000,
       "imagen": "img/108.jpeg",
       "categoria": "Muñecas",
-      "descripcion": "Pareja de Novios",
+      "descripcion": "Bagbie, Ken y niña",
       "activo": true
     },
     {
@@ -691,7 +673,7 @@ const SITE_DATA = {
     },
     {
       "id": "0001010",
-      "nombre": "Princesa Vogue",
+      "nombre": "Muñeca con pony",
       "precio": 5000,
       "imagen": "img/1010.jpeg",
       "categoria": "Muñecas",
@@ -709,7 +691,7 @@ const SITE_DATA = {
     },
     {
       "id": "0001012",
-      "nombre": "Princesa Barbie Nueva Serie",
+      "nombre": "Barbie",
       "precio": 3000,
       "imagen": "img/1012.jpeg",
       "categoria": "Muñecas",
@@ -718,7 +700,7 @@ const SITE_DATA = {
     },
     {
       "id": "0001013",
-      "nombre": "Princesa",
+      "nombre": "Barbie en caja con vestidos",
       "precio": 5000,
       "imagen": "img/1013.jpeg",
       "categoria": "Muñecas",
@@ -727,7 +709,7 @@ const SITE_DATA = {
     },
     {
       "id": "0001014",
-      "nombre": "Princesas",
+      "nombre": "Barbies con alas",
       "precio": 2500,
       "imagen": "img/1014.jpeg",
       "categoria": "Muñecas",
@@ -736,20 +718,11 @@ const SITE_DATA = {
     },
     {
       "id": "0001015",
-      "nombre": "Princesa Barbie Pequeñas",
+      "nombre": "Muñecas Frozen pequeñas",
       "precio": 5000,
       "imagen": "img/1015.jpeg",
       "categoria": "Muñecas",
       "descripcion": "Princesa Tamaño Barbie Pequeñas",
-      "activo": true
-    },
-    {
-      "id": "0001016",
-      "nombre": "Princesa Bella",
-      "precio": 3500,
-      "imagen": "img/1016.jpeg",
-      "categoria": "Muñecas",
-      "descripcion": "Bella Princesa para niñas Mayores de 5 años",
       "activo": true
     },
     {
@@ -790,7 +763,7 @@ const SITE_DATA = {
     },
     {
       "id": "000121",
-      "nombre": "Equipo Juego de Acción",
+      "nombre": "Set de 4 pistolas negras",
       "precio": 4000,
       "imagen": "img/121.jpeg",
       "categoria": "Pistolas",
@@ -808,7 +781,7 @@ const SITE_DATA = {
     },
     {
       "id": "000123",
-      "nombre": "Set Completo de Juego para Niños",
+      "nombre": "Set de pistola con esposas",
       "precio": 2000,
       "imagen": "img/123.jpeg",
       "categoria": "Pistolas",
@@ -817,11 +790,11 @@ const SITE_DATA = {
     },
     {
       "id": "000124",
-      "nombre": "Pistola de Burbujas Eléctrico",
+      "nombre": "Pistola de Burbujas",
       "precio": 6500,
       "imagen": "img/124.jpeg",
       "categoria": "Pistolas",
-      "descripcion": "Disparo de Burbujas Eléctrico",
+      "descripcion": "",
       "activo": true
     },
     {
@@ -835,11 +808,11 @@ const SITE_DATA = {
     },
     {
       "id": "000126",
-      "nombre": "Arma Militar",
+      "nombre": "Ametralladora verde",
       "precio": 4000,
       "imagen": "img/126.jpeg",
       "categoria": "Pistolas",
-      "descripcion": "Arma Militar",
+      "descripcion": "Tiene sonidos",
       "activo": true
     },
     {
@@ -907,29 +880,29 @@ const SITE_DATA = {
     },
     {
       "id": "000143",
-      "nombre": "Juego de Cocina para Pequeños",
+      "nombre": "Juego de Cocina tasas de té",
       "precio": 7000,
       "imagen": "img/143.jpeg",
       "categoria": "Set de Cocina, Médico y de Uñas",
-      "descripcion": "Juego de Cocina para Pequeños",
+      "descripcion": "",
       "activo": true
     },
     {
       "id": "000144",
-      "nombre": " Juego de Uñas Postisas",
+      "nombre": "Juego de Uñas Postizas",
       "precio": 1200,
       "imagen": "img/144.jpeg",
       "categoria": "Set de Cocina, Médico y de Uñas",
-      "descripcion": "Uñas Postisas",
+      "descripcion": "Uñas Postizas",
       "activo": true
     },
     {
       "id": "000145",
-      "nombre": "Jugando al Doctor",
+      "nombre": "Set de médico",
       "precio": 2000,
       "imagen": "img/145.jpeg",
       "categoria": "Set de Cocina, Médico y de Uñas",
-      "descripcion": "Herramientas para el Doctor",
+      "descripcion": "",
       "activo": true
     },
     {
@@ -943,7 +916,7 @@ const SITE_DATA = {
     },
     {
       "id": "000147",
-      "nombre": "Kit de Doctor para Niñas",
+      "nombre": "Maleta de Doctor para Niñas",
       "precio": 7000,
       "imagen": "img/147.jpeg",
       "categoria": "Set de Cocina, Médico y de Uñas",
@@ -952,7 +925,7 @@ const SITE_DATA = {
     },
     {
       "id": "000148",
-      "nombre": "Kit de Doctor",
+      "nombre": "Set de dentista azul",
       "precio": 2000,
       "imagen": "img/148.jpeg",
       "categoria": "Set de Cocina, Médico y de Uñas",
@@ -979,7 +952,7 @@ const SITE_DATA = {
     },
     {
       "id": "000153",
-      "nombre": "Kit Completo",
+      "nombre": "Set de guantes de Frozen",
       "precio": 3500,
       "imagen": "img/153.jpeg",
       "categoria": "Set de Corona y de Tacones",
@@ -988,7 +961,7 @@ const SITE_DATA = {
     },
     {
       "id": "000154",
-      "nombre": "Kit Completo",
+      "nombre": "Set de tacones azul",
       "precio": 5500,
       "imagen": "img/154.jpeg",
       "categoria": "Set de Corona y de Tacones",
@@ -1006,7 +979,7 @@ const SITE_DATA = {
     },
     {
       "id": "000156",
-      "nombre": "Kit de Princesa",
+      "nombre": "Disfraz de Frozen",
       "precio": 5000,
       "imagen": "img/156.jpeg",
       "categoria": "Set de Corona y de Tacones",
@@ -1015,7 +988,7 @@ const SITE_DATA = {
     },
     {
       "id": "000161",
-      "nombre": "Kit de Herramientas",
+      "nombre": "Set de Herramientas rojo",
       "precio": 4000,
       "imagen": "img/161.jpeg",
       "categoria": "Set de Dino, Animales y de Herramientas",
@@ -1033,7 +1006,7 @@ const SITE_DATA = {
     },
     {
       "id": "000163",
-      "nombre": "Mundo Animal",
+      "nombre": "Set de animales",
       "precio": 3500,
       "imagen": "img/163.jpeg",
       "categoria": "Set de Dino, Animales y de Herramientas",
@@ -1069,7 +1042,7 @@ const SITE_DATA = {
     },
     {
       "id": "000171",
-      "nombre": "Maquillaje no Tóxico",
+      "nombre": "Maquillaje de princesas",
       "precio": 4000,
       "imagen": "img/171.jpeg",
       "categoria": "Set de Maquillaje y de Armar Pulsas",
@@ -1078,7 +1051,7 @@ const SITE_DATA = {
     },
     {
       "id": "000172",
-      "nombre": "Set de Maquillaje",
+      "nombre": "Maquillaje paleta",
       "precio": 2500,
       "imagen": "img/172.jpeg",
       "categoria": "Set de Maquillaje y de Armar Pulsas",
@@ -1087,7 +1060,7 @@ const SITE_DATA = {
     },
     {
       "id": "000173",
-      "nombre": "Set de Maquillaje",
+      "nombre": "Maquillaje unicornio",
       "precio": 2000,
       "imagen": "img/173.jpeg",
       "categoria": "Set de Maquillaje y de Armar Pulsas",
@@ -1104,21 +1077,120 @@ const SITE_DATA = {
       "activo": true
     },
     {
-      "id": "000175",
-      "nombre": "Set de Armar Pulsas",
-      "precio": 6000,
-      "imagen": "img/175.jpeg",
-      "categoria": "Set de Maquillaje y de Armar Pulsas",
-      "descripcion": "Set de Armar Pulsas",
-      "activo": true
-    },
-    {
       "id": "000176",
       "nombre": "Set de Armar Pulsas",
       "precio": 4000,
       "imagen": "img/176.jpeg",
       "categoria": "Set de Maquillaje y de Armar Pulsas",
       "descripcion": "Set de Armar Pulsas",
+      "activo": true
+    },
+    {
+      "id": "pelotas-de-playa-1790477108374",
+      "nombre": "Pelotas de playa",
+      "precio": 1000,
+      "imagen": "img/114.jpeg",
+      "categoria": "Pelotas y Juguetes de Playa",
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "id": "carritos-pequenos-para-cumpleanos-1790478668770",
+      "nombre": "Carritos pequeños para cumpleaños",
+      "precio": 500,
+      "imagen": "img/718.jpeg",
+      "categoria": "Juguetes Didácticos",
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "id": "pitos-para-cumpleanos-1790478930656",
+      "nombre": "Pitos para cumpleaños",
+      "precio": 500,
+      "imagen": "img/719.jpeg",
+      "categoria": "Juguetes Didácticos",
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "id": "espadas-verdes-1790479048114",
+      "nombre": "Espadas verdes",
+      "precio": 2500,
+      "imagen": "img/133.jpeg",
+      "categoria": "Set de Armas",
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "id": "set-de-8-carritos-1790479176792",
+      "nombre": "Set de 8 carritos",
+      "precio": 3000,
+      "imagen": "img/516.jpeg",
+      "categoria": "Carros, Rastras y Camiones",
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "id": "carro-volqueta-naranja-1790479289674",
+      "nombre": "Carro volqueta naranja",
+      "precio": 3000,
+      "imagen": "img/517.jpeg",
+      "categoria": "Carros, Rastras y Camiones",
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "id": "carriolas-rosadas-kuromi-1790479410665",
+      "nombre": "Carriolas rosadas kuromi",
+      "precio": 20000,
+      "imagen": "img/33.jpeg",
+      "categoria": "Bicicletas y Patinetas",
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "id": "carro-control-litium-rojo-1790479500043",
+      "nombre": "Carro control litium rojo",
+      "precio": 15000,
+      "imagen": "img/46.jpeg",
+      "categoria": "Carros de Control Remoto",
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "id": "carro-control-2-colores-1790479643864",
+      "nombre": "Carro control 2 colores",
+      "precio": 7500,
+      "imagen": "img/47.jpeg",
+      "categoria": "Carros de Control Remoto",
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "id": "carro-todoterreno-1790479752070",
+      "nombre": "Carro todoterreno",
+      "precio": 6000,
+      "imagen": "img/518.jpeg",
+      "categoria": "Carros, Rastras y Camiones",
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "id": "carro-todoterreno-1790479791339",
+      "nombre": "Carro todoterreno",
+      "precio": 6000,
+      "imagen": "img/518.jpeg",
+      "categoria": "Carros, Rastras y Camiones",
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "id": "bolsa-de-regalo-con-munequitos-1790479919148",
+      "nombre": "Bolsa de regalo con muñequitos",
+      "precio": 750,
+      "imagen": "img/115.jpeg",
+      "categoria": "Artículos para Bebés",
+      "descripcion": "",
       "activo": true
     }
   ]

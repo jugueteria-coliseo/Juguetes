@@ -15,7 +15,7 @@ const SITE_DATA = {
   "categorias": [
     "Artículos para Bebés",
     "Bebés",
-    "Bicicletas y Patinetas",
+    "Carriolas y Patinetas",
     "Carros de Control Remoto",
     "Carros, Rastras y Camiones",
     "Castillos",

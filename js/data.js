@@ -7,7 +7,7 @@ const SITE_DATA = {
     "telefono1": "+53 53572823",
     "telefono2": "+53 54276745",
     "whatsapp": "+53 53572823",
-    "horario": "Lunes a Sábado: 9:00 a.m. – 4:00 p.m.",
+    "horario": "Lunes a Viernes: 9:00 a.m. – 4:00 p.m.",
     "facebook": "https://www.facebook.com/argollas.holguin.5",
     "instagram": "",
     "mapa": "https://maps.app.goo.gl/71cZYnBmh7w47vcR9"
@@ -15,7 +15,7 @@ const SITE_DATA = {
   "categorias": [
     "Artículos para Bebés",
     "Bebés",
-    "Bicicletas y Patinetas",
+    "Carriolas y Patinetas",
     "Carros de Control Remoto",
     "Carros, Rastras y Camiones",
     "Castillos",
@@ -27,7 +27,7 @@ const SITE_DATA = {
     "Pistolas",
     "Set de Armas",
     "Set de Cocina, Médico y de Uñas",
-    "Set de Corona y de Tacones",
+    "Set de Corona,  varita y Tacones",
     "Set de Dino, Animales y de Herramientas",
     "Set de Maquillaje y de Armar Pulsas",
     "Artículos para cumpleaños",

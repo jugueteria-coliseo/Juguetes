@@ -15,7 +15,7 @@ const SITE_DATA = {
   "categorias": [
     "Artículos para Bebés",
     "Bebés",
-    "Bicicletas y Patinetas",
+    "Carriolas,velocipedos y patinetas",
     "Carros de Control Remoto",
     "Carros, Rastras y Camiones",
     "Castillos",
@@ -25,7 +25,7 @@ const SITE_DATA = {
     "Muñecas",
     "Pelotas y Juguetes de Playa",
     "Pistolas",
-    "Set de Armas",
+    "Espadas y sables",
     "Set de Cocina, Médico y de Uñas",
     "Set de Corona y de Tacones",
     "Set de Dino, Animales y de Herramientas",
